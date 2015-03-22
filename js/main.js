@@ -1,5 +1,5 @@
 $(document).ready(function() {
-
+// Adds wallpaper plugin to the header and footer
 $(".walled").wallpaper({
 	source: {
 		"fallback": "img/header_bg.jpg",
@@ -7,6 +7,7 @@ $(".walled").wallpaper({
 	}
 });
 
+// Adds wallpaper plugin to the main
 $("main").wallpaper({
 	source: {
 		"fallback": "img/main_bg.png",
@@ -14,7 +15,7 @@ $("main").wallpaper({
 	}
 });
 
-
+// Adds tooltip plugin to the tooltip class
 $('.tooltip').tooltipster({
     trigger: 'click'
 });
