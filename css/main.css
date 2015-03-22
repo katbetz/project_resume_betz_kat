@@ -20,3 +20,8 @@ header h1{
     color:white;
     padding-left:5px;
 }
+
+h2{
+    border-left:3px double #602d7e;
+    padding-left:3px;
+}
