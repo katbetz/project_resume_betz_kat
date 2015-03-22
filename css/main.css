@@ -2,3 +2,12 @@ body{
     color:#31014e;
     font-family: 'Noto Sans', sans-serif;
 }
+
+main{
+    margin: 0 auto;
+}
+
+section{
+    padding:5px;
+    clear:both;
+}
