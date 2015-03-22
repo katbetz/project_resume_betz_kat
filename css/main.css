@@ -31,7 +31,7 @@ h1, h2, h3, h4{
 }
 
 #katpic{
-    max-height:150px;
+    max-height:100px;
     float:left;
     margin: 0 10px 10px 0;
     border-right:1px solid #602d7e;
@@ -51,5 +51,8 @@ footer{
         margin-left:auto;
         margin-right:auto;
         max-width:1000px;
+    }
+    #katpic{
+        max-height:175px;
     }    
 }
