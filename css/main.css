@@ -29,3 +29,11 @@ h2{
 h1, h2, h3, h4{
     font-family: 'Play', sans-serif;
 }
+
+
+footer{
+    text-align:center;
+    font-size:.8em;
+    color:white;
+    border-top:1px solid #602d7e;
+}
