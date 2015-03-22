@@ -30,10 +30,18 @@ h1, h2, h3, h4{
     font-family: 'Play', sans-serif;
 }
 
-
 footer{
     text-align:center;
     font-size:.8em;
     color:white;
     border-top:1px solid #602d7e;
+}
+
+@media screen and (min-width:640px){
+    header h1, section{
+        width:80%;
+        margin-left:auto;
+        margin-right:auto;
+        max-width:1000px;
+    }    
 }
