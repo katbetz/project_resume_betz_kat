@@ -30,6 +30,14 @@ h1, h2, h3, h4{
     font-family: 'Play', sans-serif;
 }
 
+#katpic{
+    max-height:150px;
+    float:left;
+    margin: 0 10px 10px 0;
+    border-right:1px solid #602d7e;
+    border-bottom:1px solid #602d7e;
+}
+
 footer{
     text-align:center;
     font-size:.8em;
