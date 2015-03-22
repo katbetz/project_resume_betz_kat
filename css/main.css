@@ -11,3 +11,12 @@ section{
     padding:5px;
     clear:both;
 }
+
+header{
+    border-bottom:1px solid #602d7e;
+}
+
+header h1{
+    color:white;
+    padding-left:5px;
+}
