@@ -25,3 +25,7 @@ h2{
     border-left:3px double #602d7e;
     padding-left:3px;
 }
+
+h1, h2, h3, h4{
+    font-family: 'Play', sans-serif;
+}
